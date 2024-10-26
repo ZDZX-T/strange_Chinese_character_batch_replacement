@@ -1,0 +1,2 @@
+# strange_Chinese_character_batch_replacement
+有时文本里会莫名出现一些长相奇怪的汉字，实际上是unicode的康熙字典部分。本工具通过模拟用户操作来自动完成查找替换
